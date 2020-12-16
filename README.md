@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Java](https://www.oracle.com/br/java/technologies/)
 - [Spring Boot](https://spring.io/)
-- [Mongodb] (https://www.mongodb.com/)
+- [Mongodb](https://www.mongodb.com/)
 
 
 ### Autor
